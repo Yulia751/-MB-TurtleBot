@@ -3,6 +3,10 @@
 ## 📌 Project Overview
 This project focuses on developing a **lane detection and autonomous navigation system** for a TurtleBot using camera-based vision processing. The primary objective is to utilize **image filtering and computer vision techniques** to detect lane markings, navigate within predefined paths, and ensure obstacle avoidance.
 
+<img src="https://github.com/user-attachments/assets/ee45e5a9-11e0-4c91-b7c8-3b785a237881" width="300">
+
+
+
 ## 🚀 Features
 - **Lane Detection**: Uses computer vision to detect lanes on the road.
 - **Edge and Color Filtering**: Filters out unnecessary details to extract relevant lane markings.
